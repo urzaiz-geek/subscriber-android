@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+        <shape android:shape="rectangle">
+            <size android:width="@dimen/button_home_width" android:height="@dimen/button_home_height"/>
+            <stroke android:width="0dp"/>
+            <corners android:radius="@dimen/default_button_radius"/>
+        </shape>
+    </item>
+</selector>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<resources>
+    <string name="app_name">Subscriber</string>
+    <string name="title">Bienvenue sur l\'enrôleur</string>
+    <string name="title_list">Liste des étudiants</string>
+    <string name="button_enrol">Inscrire</string>
+    <string name="button_consult">Consulter</string>
+    <string name="button_next">Suivant</string>
+    <string name="first_name_hint">Noms</string>
+    <string name="last_name_hint">Prénoms</string>
+    <string name="birth_date_hint">Né le</string>
+    <string name="course_hint">Cours</string>
+    <string name="grade_hint">Niveau</string>
+    <string name="course_grade_format">%s niveau %d</string>
+    <string name="date_sex_format">Né le %s de sexe %s</string>
+    <string name="names_format">%s %s</string>
+    <string name="error_name_message">Veuillez entrer le nom</string>
+    <string name="error_birth_date_message">Veuillez entrer la date de naissance</string>
+    <string name="error_grade_message">Le niveau doit être un nombre</string>
+    <string name="student_added_message">Etudiant enregistré</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="button_take_photo">Prendre une photo</string>
+    <string name="button_save">Enregistrer</string>
+    <string name="student_photo_content">student photo</string>
+    <string name="title_student_info">Informations de l\'étudiant</string>
+    <string name="tittle_student_photo">Photo de l\'étudiant</string>
+    <string name="error_birth_date_message_inv">La date de naissance est invalide</string>
+    <string name="student_deleted_message">Etudiant supprimé</string>
+    <string name="cache_delete_error_message">Une erreur est survenue lors de la suppression de l\'image</string>
+    <string name="unable_to_save_photo_message">Erreur lors de la sauvegarde de la photo</string>
+    <string name="fatal_listview_message_error">Une erreur empêche l\'activité de démarrer</string>
+
+    <array name="sex_items">
+        <item>Masculin</item>
+        <item>Féminin</item>
+        <item>Autre</item>
+    </array>
+
+</resources>

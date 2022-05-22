@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="button_home_width">236dp</dimen>
+    <dimen name="button_home_height">58dp</dimen>
+    <dimen name="default_button_text_size">25sp</dimen>
+    <dimen name="default_button_padding">1dp</dimen>
+    <dimen name="default_title_width">331dp</dimen>
+    <dimen name="default_title_height">164dp</dimen>
+    <dimen name="default_title_text_size">34sp</dimen>
+    <dimen name="default_informative_padding">8dp</dimen>
+    <dimen name="default_informative_text_size">15sp</dimen>
+    <dimen name="default_rounded_image_percentage">20%</dimen>
+    <dimen name="default_rounded_image_stroke">1dp</dimen>
+    <dimen name="default_button_radius">40dp</dimen>
+    <dimen name="default_button_circle_radius">75dp</dimen>
+    <dimen name="default_avatar_width">150dp</dimen>
+    <dimen name="default_avatar_height">140dp</dimen>
+</resources>
